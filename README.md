@@ -94,9 +94,9 @@
     <li><strong>How to write external programs</strong> that includes a menu user click some buttons and bum! it makes a part of cheat work?</li>
     <li><strong>Howtf can a game detect i use cheats?</strong> – What if another eye watches games executable and says like: "Hey no! i dont know about 100%notcheat.dll file! you can inject it!"</li>
     <li><strong>Howtf can they ban me!</strong> – Wait so they an my ip address or cookie, or hwid, or my identity on internet? Hmm, how can i bypass this? ip ban? if its ip i can just change and bum im in. What if its a cookie or id ban? is that id paired with my account?.</li>
-    <li><strong>What if i act like im BIOS and access game files through kernel?/strong> – Wait if i can say to game anti-cheat like this: "Hey uh im wonduws now i need access your memory directly and change something if you dont let me i'll stop you! "searches for player data on ram" ahah! yes hmm money must be 293840 so now i will change that!" </li>
-    <li><strong>Old Games: /strong> – "Oh ok! change whatever you want just pls dont stop me!!" </li>
-    <li><strong>Modern Games: /strong> – "Fuck off, even if you a god you cant access my memory."</li>
+    <li><strong>What if i act like im BIOS and access game files through kernel?</strong> – Wait if i can say to game anti-cheat like this: "Hey uh im wonduws now i need access your memory directly and change something if you dont let me i'll stop you! "searches for player data on ram" ahah! yes hmm money must be 293840 so now i will change that!" </li>
+    <li><strong>Old Games: </strong> – "Oh ok! change whatever you want just pls dont stop me!!" </li>
+    <li><strong>Modern Games: </strong> – "Fuck off, even if you a god you cant access my memory."</li>
 </ul>
 
 <p>See? after this game will keep rejecting access. I wont hold you for too long you need reverse engineer all anti-cheat code bypass baits inside anti-cheats code and tell anti-cheat like: "no no game executable is "explorer.exe" go and protect that!" then game will just be naked.</p>
