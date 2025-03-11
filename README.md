@@ -3,6 +3,7 @@
 <h2>🏢 For Companies / Professional Overview</h2>
 
 <p><em>(If you're a recruiter, employer, or someone looking at my projects professionally, this section is for you!)</em></p>
+<p><em>Or... if you someone else still learing go down till red text. C:</em></p>
 
 <h2>About Me</h2>
 
