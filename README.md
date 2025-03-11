@@ -98,7 +98,7 @@
 
 <hr>
 
-<h2Understanding Software & Security – How Programs Protect Themselves</h2>
+<h2>Understanding Software & Security – How Programs Protect Themselves</h2>
 <p>As I got deeper into programming, I started learning about <strong>how security software works</strong> and how programs try to protect themselves.</p>
 
 <p>I explored:</p>
