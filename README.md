@@ -4,9 +4,9 @@
 
 <p><em>(If you're a recruiter, employer, or someone looking at my projects professionally, this section is for you!)</em></p>
 
-<h2>About Me</h2>
+<h2>Me</h2>
 
-<p>I'm a high school student with a strong passion for programming, cybersecurity, and reverse engineering. I enjoy breaking things down (and making them not work again) to understand how they work and creating my own projects along the way. My goal is to learn everything and push the boundaries of what I can do.</p>
+<p>I'm a high school student with a passion for programming, cybersecurity, and reverse engineering. I enjoy breaking things down (and making them not work again) to understand how they work and creating my own projects along the way. My goal is to learn everything and push the boundaries of what I can do.</p>
 
 <h2>Tech Stack</h2>
 
@@ -14,31 +14,33 @@
     <li><strong>Languages:</strong> C (native), Python, Java</li>
     <li><strong>Experience:</strong> Reverse engineering, malware analysis, OSINT, game modifications</li>
     <li><strong>Currently Learning:</strong> Pointers, system security, and advanced networking</li>
+    <li><strong>Unethical?</strong> Little bit unethical and black hat thing</li>
 </ul>
 
 <h2>My Journey</h2>
 
 <ul>
-    <li><strong>Early Beginnings 🎮</strong> – Got introduced to computers at 5-6 years old, generating random keys with Cheat Engine and exploring game modifications.</li>
+    <li><strong>Early Beginnings For ME</strong> – Got introduced to computers at 5-6 years old, generating random keys with Cheat Engine and exploring game modifications.</li>
     <li><strong>Game Hacking Era </strong> – Started scripting in Lua for Roblox, experimenting with in-game exploits and automation.</li>
     <li><strong>Exploring Cybersecurity</strong> – Learned about RCE, OSINT, and vulnerabilities through platforms like 4chan, 2b2t, and various hacking communities.</li>
     <li><strong>Deep Dive into Security</strong> – Entered forums like UnknownCheats, worked with DLL injections, evasion techniques, and explored how antivirus solutions function.</li>
     <li><strong>Malware Development & Networking </strong> – Created backdoors, experimented with payload delivery, and explored hidden file techniques.</li>
 </ul>
 
-<h2>Current Goals</h2>
+<h2>oals</h2>
 
 <ul>
     <li>Mastering English and Russian 🏴‍☠️</li>
     <li>Advancing my knowledge in low-level programming and cybersecurity</li>
-    <li>Expanding my reverse engineering skills</li>
+    <li>Expanding my reverse engineering skills for analyzing malwares</li>
+    <li>Become best War Thunder Player!</li>
 </ul>
 
 <h2>Fun Fact</h2>
 
-<p>One of the things that keeps me going is War Thunder—a game I started playing after a major life event.</p>
+<p>One of the things that keeps me going is War Thunder a game I started playing after a major life event.</p>
 
-<h1 style="color: red;" >After This is Only For 18- Who Still Learns</h1>
+<h1>After This is Only For 18- Who Still Learns</h1>
 
 <hr>
 
@@ -46,8 +48,6 @@
 <p>I was around <strong>5-6 years old</strong> when my uncle introduced me to <strong>Cheat Engine</strong>. He showed me how to <strong>generate random keys</strong>, and I managed to <strong>unlock</strong> things in a game (<strong>GTA Vice City</strong>). That was the moment I realized computers don’t just “work”—you can <strong>change</strong> them!</p>
 
 <p>Then, I got into <strong>mobile game modifications</strong>. I used apps like <strong>Lucky Patcher</strong> and <strong>Game Guardian</strong> to explore how games store data and handle purchases. Even though I didn’t know what I was doing at first, it helped me understand <strong>how software works behind the scenes</strong>.</p>
-
-<hr>
 
 <h2>From Games to Code – Learning to Program</h2>
 <p>Around <strong>2018-2019</strong>, I started playing <strong>Roblox</strong>, and that’s when I discovered <strong>Lua scripting</strong>. With Lua, I could write <strong>small programs</strong> (scripts) that could:</p>
@@ -98,7 +98,7 @@
 
 <hr>
 
-<h2>🏴‍☠Understanding Software & Security – How Programs Protect Themselves</h2>
+<h2Understanding Software & Security – How Programs Protect Themselves</h2>
 <p>As I got deeper into programming, I started learning about <strong>how security software works</strong> and how programs try to protect themselves.</p>
 
 <p>I explored:</p>
@@ -109,13 +109,13 @@
 
 <p>This was <strong>fascinating</strong> because it showed me how companies <strong>build defenses</strong> against security risks. If you want to learn more, try:</p>
 <ul>
-    <li><strong>Making a simple antivirus scanner in Python</strong></li>
+    <li><strong>Making a simple antivirus scanner (You can find it on my profile!!!)</strong></li>
     <li><strong>Exploring how file formats work (like .exe, .dll, and .zip)</strong></li>
 </ul>
 
 <hr>
 
-<h2>📡 Understanding Networking – How the Internet Connects Everything</h2>
+<h2>Understanding Networking – How the Internet Connects Everything</h2>
 <p>As I kept learning, I got interested in <strong>networking</strong>—how computers talk to each other over the internet.</p>
 
 <p>Some things I explored:</p>
@@ -134,10 +134,10 @@
 
 <hr>
 
-<h2>Life, War Thunder, more War Thunder & The Future</h2>
-<p>At one point, I went through a tough breakup with someone I had been with for <strong>5-6 years</strong>. It was hard, but I found things that kept me going. One of those things was <strong>War Thunder</strong>, a game I started playing after that.</p>
+<h2>Life, War Thunder, more War Thunder, Sushi Thoughts & The Future</h2>
+<p>At one point, I went through a tough breakup with someone I had been with for <strong>5-6 years</strong>. It was hard, yes it was reason of sushi (not the food but the rope one) but I found things that kept me going. Like: <strong>War Thunder, Bad Apple</strong> and <strong>My Cat</strong></p>
 
-<p>Sometimes, having a <strong>hobby or passion</strong>—whether it’s programming, gaming, or something else—can help you stay motivated even when life gets tough.</p>
+<p>If i was did the "sushi" you wouldnt read this. Yes i agree life is like a sabot shell sometimes. It rlly hits hard but if you prepare yourself a bit (angle yourself for tank commanders) you wont even feel it.</p>
 
 <hr>
 
@@ -149,11 +149,11 @@
     <li><strong>Building new projects & exploring cybersecurity</strong></li>
 </ul>
 
-<p>Your mom will always tell you <strong>"dont try! dont learn! stay in safe!"</strong>. No, if you want make something you need go to frontlines in war.</p>
+<p>Your mom will always tell you <strong>dont try! dont learn! stay in safe!</strong>. No, if you want make something you need go to frontlines.</p>
 
 <hr>
 
-<h2>Want to Connect?</h2>
-<p>You can contact me about anything you want. Just sayin for comparison. When i waas 14-15 my friends was like "Lets go and kiss girls!! uu yee! yes my dad rich now i'll eat all money!!. While they kissing, spending money or jerking off i did make my cheats and raped them in games. with backdoors i was able to user their computer but they wasnt know it. Do not care about "gays" like this in life. oh sorry typo.</strong>!</p>
+<h2>Want to talk?</h2>
+<p>You can contact me about anything you want(ETHICAL). Just sayin for comparison. When i waas 14-15 my friends was like "Lets go and kiss girls!! uu yee! yes my dad rich now i'll eat all money!!. While they kissing, spending money or jerking off i did make my cheats and raped them in games. with backdoors i was able to user their computer but they wasnt know it. I was in their wifi but they didnt heard anything from me. Do not care about "gays" like this in life. oh sorry typo.</strong></p>
 
 <hr>
