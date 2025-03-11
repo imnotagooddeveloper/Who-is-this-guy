@@ -57,60 +57,70 @@
     <li>Create tools for others to use</li>
 </ul>
 
-<p>This was my first <strong>real programming experience</strong>—writing code that actually did something!</p>
+<p>This was my first <strong>real programming experience</strong>—writing code that actually worked! Well i did hack in games but who cares? it still worked!</p>
 
-<p>If you want to start coding, <strong>Lua is a great beginner-friendly language</strong>. It teaches you <strong>variables, loops, and logic</strong> without being too complicated.</p>
+<p>Personally if you want start programming from somewhere lua and python will only teach you basic things. Like what is a function how to use modules? or how to make basic programs.</p>
 
 <hr>
 
-<h2>The Internet & Cybersecurity – How Things Work Online</h2>
+<h2>The Internet & Cybersecurity – The Time I Got Rebirth</h2>
 <p>At some point, I stumbled upon <strong>4chan</strong> and <strong>2b2t (the oldest anarchy Minecraft server)</strong>. This was a huge turning point for me.</p>
 
-<p>I learned about:</p>
+<p>What happened inside?</p>
 <ul>
-    <li><strong>How websites and servers work</strong></li>
-    <li><strong>What RCE (Remote Code Execution) is</strong> – This is when a program or website lets someone run code they shouldn’t be able to.</li>
-    <li><strong>OSINT (Open Source Intelligence)</strong> – Finding public information online, like tracking usernames across platforms.</li>
+    <li><strong>I did meet with amazing people!!! (most of them was black hat hackers tho)</strong></li>
+    <li><strong>In 2b2t i learned minecraft RCE exploits. Why they even work? Why game thinks its a code to run?</li>
+    <li><strong>OSINT</strong> - Finding someone from smallest details like surnames or even just a username part.</li>
 </ul>
 
-<p>I started asking:</p>
+<p>First started asking:</p>
 <ul>
-    <li>How does the internet really work?</li>
-    <li>Why do some programs have <strong>security flaws</strong>?</li>
-    <li>How can people <strong>track someone online</strong> using small details?</li>
+    <li>How this guys make money?</li>
+    <li>How can i bypass <strong>everything</strong>. I dont mean AV. I mean everything, How to bypass wifi passwords? how to make mitm attack while still keeping connectiong encrypted? Can i modify this software and make it work without a key? Wait can i even bypass passwords to login others accoutns??</li>
+    <li>You can already understand how things will go right?</li>
 </ul>
 
-<p>If you're interested in this, look into <strong>how websites are built, how IP addresses work, and how data moves across the internet</strong>.</p>
+<p>If you interested in this things. First learn how to be quiet both in real life and on internet. Leave no clue about what you did c:.</p>
 
 <hr>
 
-<h2>Learning More About Programming & Cybersecurity</h2>
+<h2>Learning More About Programming (Just Becoming Lifeless) & Zybersecurity</h2>
 <p>When the <strong>pandemic hit</strong>, I had more time to learn. That’s when I joined <strong>UnknownCheats</strong>, a forum where people talk about <strong>game security, programming, and reverse engineering</strong>.</p>
 
 <p>From there, I learned:</p>
 <ul>
     <li><strong>What DLL injections are</strong> – This means adding new code to a running program.</li>
-    <li><strong>How to write external programs</strong> that interact with games.</li>
-    <li><strong>How screen-sharing detection works</strong> – I wanted to understand how companies monitor cheating in games.</li>
+    <li><strong>What DLL injections are - 2</strong> Some games doesnt just run code and block it. So i need make my dll <strong>Manual Map</strong> to make it work?</li>
+    <li><strong>How to write external programs</strong> that includes a menu user click some buttons and bum! it makes a part of cheat work?</li>
+    <li><strong>Howtf can a game detect i use cheats?</strong> – What if another eye watches games executable and says like: "Hey no! i dont know about 100%notcheat.dll file! you can inject it!"</li>
+    <li><strong>Howtf can they ban me!</strong> – Wait so they an my ip address or cookie, or hwid, or my identity on internet? Hmm, how can i bypass this? ip ban? if its ip i can just change and bum im in. What if its a cookie or id ban? is that id paired with my account?.</li>
+    <li><strong>What if i act like im BIOS and access game files through kernel?/strong> – Wait if i can say to game anti-cheat like this: "Hey uh im wonduws now i need access your memory directly and change something if you dont let me i'll stop you! "searches for player data on ram" ahah! yes hmm money must be 293840 so now i will change that!" </li>
+    <li><strong>Old Games: /strong> – "Oh ok! change whatever you want just pls dont stop me!!" </li>
+    <li><strong>Modern Games: /strong> – "Fuck off, even if you a god you cant access my memory."</li>
 </ul>
 
-<p>If you want to get started with <strong>reverse engineering</strong>, you should first learn <strong>basic C or Python programming</strong>. These languages help you understand how software is built, so you can break it down later.</p>
+<p>See? after this game will keep rejecting access. I wont hold you for too long you need reverse engineer all anti-cheat code bypass baits inside anti-cheats code and tell anti-cheat like: "no no game executable is "explorer.exe" go and protect that!" then game will just be naked.</p>
 
 <hr>
 
-<h2>Understanding Software & Security – How Programs Protect Themselves</h2>
+<h2>How Programs Protect Themselves</h2>
 <p>As I got deeper into programming, I started learning about <strong>how security software works</strong> and how programs try to protect themselves.</p>
 
 <p>I explored:</p>
 <ul>
     <li><strong>How file extensions work</strong> – Some programs only allow certain file types, but you can sometimes rename files to trick them.</li>
     <li><strong>How antivirus software detects threats</strong> – AV programs look for <strong>patterns in files</strong> to catch bad programs.</li>
+    <li><strong>How antivirus software detects threats</strong> – at old times AV software was just looking for executables. And if you manage to open executable 1 time bum! you in. You can test the thing i'll say you now just any program that works standalone! rename it to program.img or program.png and run it via cmd it'll run it as executable. I used this trick alot to bypass AV c:.</li>
 </ul>
 
-<p>This was <strong>fascinating</strong> because it showed me how companies <strong>build defenses</strong> against security risks. If you want to learn more, try:</p>
+<p>This was <strong>fascinating</strong> because it showed me how companies <strong>build defenses</strong> against security risks. If you want start somewhere try things i did!:</p>
 <ul>
-    <li><strong>Making a simple antivirus scanner (You can find it on my profile!!!)</strong></li>
-    <li><strong>Exploring how file formats work (like .exe, .dll, and .zip)</strong></li>
+    <li><strong>Bind a virus inside another executable!</strong></li>
+    <li><strong>Hide malware inside office files like .docx or pdfs via javascript</strong></li>
+    <li><strong>Make a complex malware! Not like a "basic" one make a malware like this: user will run this AND malware will not do what its supposed to do... Instead it'll look around for like AV process names on process list. It'll try to be admin process or migrate a system process like svchost. Then it'll look inside computer for like .png or .txt files and send them to you! Will it stop? Nah it'll look network if its in a lan it'll try to jump other devices!</strong></li>
+    <li><strong>On previous hint. I did say ".png or .txt files and send them to you!" remember? forget it. Modern AV's prevent direct connections to ip addresses. But! instead of it you can use things like discord webhooks to send datas. or public clouds like google drive, one drive and etc.</strong></li>
+    <li><strong>You might say "WTF is next!" i'll say directly remember i said about program.png? inject payload image files. No im not joking. Weld them inside images! BUT HEY! image must work like both image and a executable. How? user will open image with double click and see image but if you open it via cmd (Little hint: you can also do it via .bat files) and your payload will run.</strong></li>
+    <li><strong>What you expect next? After this line is UNETHICALLLLL so i cant publish it but can give a little hint to. Next step is zero click malwares. For example: NSO Group's Pegasus Spyware. Uses whatsapp and pretends to be a Whatsapp server and sends user data like this: "Hey uhh you remember 482 4214 number on your phone? ok he did sent you a trustmenotmalware.pdf and now i'll send this to you and you'll open it ok?" and your Whatsapp client is like "Oh yee! ofc you are real whatsapp server! send me file and i'll open this on my users phone without waiting any response from user!" ye thats how they spy on ppl.</strong></li>
 </ul>
 
 <hr>
@@ -125,12 +135,7 @@
     <li><strong>How wireless networks function</strong> – Most devices connect over WiFi, but not all of them are secure.</li>
 </ul>
 
-<p>If you want to learn about networking, start with:</p>
-<ul>
-    <li><strong>How IP addresses work</strong></li>
-    <li><strong>What DNS is (how websites turn names into numbers)</strong></li>
-    <li><strong>How to set up your own local server</strong></li>
-</ul>
+<p>If you want to learn about networking, start with selling you soul after that contact me (if you can).</p>
 
 <hr>
 
@@ -145,8 +150,8 @@
 <p>Right now, I’m focused on:</p>
 <ul>
     <li><strong>Learning English & Russian</strong> to connect with more people in tech</li>
-    <li><strong>Getting better at low-level programming</strong> (C and system security)</li>
-    <li><strong>Building new projects & exploring cybersecurity</strong></li>
+    <li><strong>Getting better at not only low-level programming but also mid-level</strong> (C#, Rust, C++, java, Android Swift or i'll just be mad and learn assembly)</li>
+    <li><strong>Making my own everything. I already did my own password manager app. Rn im working on a chat app that works P2P like torrent. With this i'll be able to store data locally and prevent some "gayvernments" from spying user datas.</strong></li>
 </ul>
 
 <p>Your mom will always tell you <strong>dont try! dont learn! stay in safe!</strong>. No, if you want make something you need go to frontlines.</p>
